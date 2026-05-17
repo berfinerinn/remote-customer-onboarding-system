@@ -171,6 +171,6 @@ Through this project, I improved my understanding of:
 
 ---
 
-## ER Diagram
+## ERD Diagram
 
-<img src="er_diagram.png" width="1000">
+<img src="erd_diagram.pdf" width="1000">
