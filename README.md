@@ -210,3 +210,5 @@ Through this project, I improved my understanding of:
 
 ### Sequence Diagram
 <img src="sequence_diagram.png" width="1000">
+
+
