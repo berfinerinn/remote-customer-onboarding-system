@@ -183,11 +183,6 @@ Through this project, I improved my understanding of:
 
 ---
 
-### Sequence Diagram
-<img src="sequence_diagram.png" width="1000">
-
----
-
 ### Package Diagram
 <img src="package_diagram.png" width="1000">
 
@@ -210,3 +205,8 @@ Through this project, I improved my understanding of:
 
 ### Use Case Diagram
 <img src="use_case_diagram.png" width="1000">
+
+---
+
+### Sequence Diagram
+<img src="sequence_diagram.png" width="1000">
