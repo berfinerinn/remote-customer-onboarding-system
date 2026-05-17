@@ -171,6 +171,42 @@ Through this project, I improved my understanding of:
 
 ---
 
-## ERD Diagram
+## System Diagrams
 
-<img src="erd_diagram.pdf" width="1000">
+### ER Diagram
+<img src="erd_diagram.png" width="1000">
+
+---
+
+### Context Diagram
+<img src="context_diagram.png" width="1000">
+
+---
+
+### Use Case Diagram
+<img src="use_case_diagram.png" width="1000">
+
+---
+
+### Sequence Diagram
+<img src="sequence_diagram.png" width="1000">
+
+---
+
+### Package Diagram
+<img src="package_diagram.png" width="1000">
+
+---
+
+### Statechart Diagram
+<img src="statechart_diagram.png" width="1000">
+
+---
+
+### Top Structure Chart
+<img src="top_structure_chart.png" width="1000">
+
+---
+
+### Relational Database Design
+<img src="relational_database_design.png" width="1000">
